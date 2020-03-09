@@ -1,0 +1,9 @@
+
+
+2020-3-8
+__________________________________________________________
+Since I am using multiple key combinations and paste patterns
+I should optimize this with it's own type instead of an enumerated
+entry. This would better prepare for customizable key combinations
+with the WPF GUI implementation,
+__________________________________________________________
