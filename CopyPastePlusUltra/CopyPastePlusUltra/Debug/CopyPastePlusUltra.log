@@ -1,0 +1,11 @@
+﻿  ClipBoardCopyManager.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scancodedcharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\numpadcombination.h(7): warning C4091: 'typedef ': ignored on left of 'numpadCombination' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(18): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessage' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(44): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessageTreeNode' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.cpp(393): warning C4018: '<': signed/unsigned mismatch
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.cpp(403): warning C4018: '<': signed/unsigned mismatch
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.cpp(413): warning C4018: '<': signed/unsigned mismatch
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\Documents\Visual Studio 2015\Projects\CopyPastePlusUltra\Debug\CopyPastePlusUltra.exe
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\Documents\Visual Studio 2015\Projects\CopyPastePlusUltra\Debug\CopyPastePlusUltra.pdb (Full PDB)

@@ -1,0 +1,13 @@
+
+%Notes: sentinel values are "- for related fields, ; for end of sub-section, % after new line for do not parse lines, and /// for new section"
+
+///
+2020-3-8
+;
+Added alternative paste methods to try to deal with an issue with Kaseya not applying shifted
+special characters
+;
+ClipBoardCopyManager.cpp
+ClipBoardCopyManager.h
+;
+
