@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  scanCodeFinder.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scancodedcharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+  CopyPastePlusUltra.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scancodedcharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\numpadcombination.h(7): warning C4091: 'typedef ': ignored on left of 'numpadCombination' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(18): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessage' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(44): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessageTreeNode' when no variable is declared
+  ClipBoardCopyManager.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scancodedcharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\numpadcombination.h(7): warning C4091: 'typedef ': ignored on left of 'numpadCombination' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(18): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessage' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\clipboardcopymanager.h(44): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessageTreeNode' when no variable is declared
+  Generating Code...
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\documents\visual studio 2015\Projects\CopyPastePlusUltra\x64\Debug\CopyPastePlusUltra.exe
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\documents\visual studio 2015\Projects\CopyPastePlusUltra\x64\Debug\CopyPastePlusUltra.pdb (Full PDB)

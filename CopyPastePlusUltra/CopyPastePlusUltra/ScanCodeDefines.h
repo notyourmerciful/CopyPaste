@@ -104,7 +104,7 @@ Scan code map at: http://www.philipstorr.id.au/pcbook/book3/scancode.htm
 #define scanCode_specialComma 0x33
 #define scanCode_specialPeriod 0x34
 #define scanCode_specialForwardSlash 0x35
-#define scanCode_specialRightShift 0x36
+#define scanCode_specialRightShift 0x2A//36
 #define scanCode_specialLeftControl 0x14
 #define scanCode_specialLeftAlt 0x11
 #define scanCode_specialSpaceBar 0x39

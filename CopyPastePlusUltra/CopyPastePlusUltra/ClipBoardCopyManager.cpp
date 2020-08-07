@@ -274,7 +274,7 @@ void typeCodedCharacter(::scanCodedCharacter toType)
 
 //EXPERIMENTAL: theory: Kaseya is not capturing the shift key properly because of the order the keydowns are sent to the OS.
 //To deal with this I am sending a shift on either side of the payload character.
-void typeCodedCharacterPattern2(::scanCodedCharacter toType)
+void typeCodedCharacterPattern3(::scanCodedCharacter toType)
 {
 	if (toType.scanCodeValue == 0)
 	{
@@ -310,13 +310,18 @@ void typeCodedCharacterPattern2(::scanCodedCharacter toType)
 	if (toType.isShifted)
 	{
 		//press
-		SendInput(3, &ip[0], sizeof(INPUT));
+//		ip[0].ki.dwFlags = ip[0].ki.dwFlags | 1;
+		SendInput(1, &ip[0], sizeof(INPUT));
+		SendInput(1, &ip[1], sizeof(INPUT));
 
 		//keyup
 		ip[0].ki.dwFlags = KEYEVENTF_SCANCODE | KEYEVENTF_KEYUP;
 		ip[1].ki.dwFlags = KEYEVENTF_SCANCODE | KEYEVENTF_KEYUP;
-		ip[2].ki.dwFlags = KEYEVENTF_SCANCODE | KEYEVENTF_KEYUP;
-		SendInput(3, &ip[0], sizeof(INPUT));
+//		ip[2].ki.dwFlags = KEYEVENTF_SCANCODE | KEYEVENTF_KEYUP;
+		SendInput(1, &ip[1], sizeof(INPUT));
+//		ip[0].ki.dwFlags = ip[0].ki.dwFlags | 1;
+		SendInput(1, &ip[0], sizeof(INPUT));
+//		SendInput(2, &ip[2], sizeof(INPUT));
 	}
 	else
 	{
@@ -335,7 +340,7 @@ void typeCodedCharacterPattern2(::scanCodedCharacter toType)
 //EXPERIMENTAL: theory: Kaseya is not printing shifted special characters properly due to the idea that it wants the shift key to
 //be pressed seperately. To deal with this I am pressing the shift key and not sending the key up until after the payload character's
 //keyup has been sent.
-void typeCodedCharacterPattern3(::scanCodedCharacter toType)
+void typeCodedCharacterPattern2(::scanCodedCharacter toType)
 {
 	if (toType.scanCodeValue == 0)
 	{

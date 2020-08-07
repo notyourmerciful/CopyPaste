@@ -1,0 +1,18 @@
+﻿  ClipBoardCopyManager.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scanCodedCharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\NumPadCombination.h(7): warning C4091: 'typedef ': ignored on left of 'numpadCombination' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\ClipboardCopyManager.h(18): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessage' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\ClipboardCopyManager.h(44): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessageTreeNode' when no variable is declared
+  CopyPastePlusUltra.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scanCodedCharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\NumPadCombination.h(7): warning C4091: 'typedef ': ignored on left of 'numpadCombination' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\ClipboardCopyManager.h(18): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessage' when no variable is declared
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\ClipboardCopyManager.h(44): warning C4091: 'typedef ': ignored on left of 'clipboardCopyManager::scanCodedMessageTreeNode' when no variable is declared
+  scanCodeFinder.cpp
+c:\users\notyourmerciful\documents\visual studio 2015\projects\copypasteplusultra\copypasteplusultra\scanCodedCharacter.h(11): warning C4091: 'typedef ': ignored on left of 'scanCodedCharacter' when no variable is declared
+  stdafx.cpp
+  Generating code
+  All 278 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\documents\visual studio 2015\Projects\CopyPastePlusUltra\x64\Release\CopyPastePlusUltra.exe
+  CopyPastePlusUltra.vcxproj -> C:\Users\notyourmerciful\documents\visual studio 2015\Projects\CopyPastePlusUltra\x64\Release\CopyPastePlusUltra.pdb (Full PDB)
